@@ -39,5 +39,5 @@ Can be manually installed by cloning this repository and then from within Burp S
 
 
 
-[hl7magic setup](images/hl7magic-screenshot.png)
+![hl7magic](images/hl7magic-screenshot.png)
 
